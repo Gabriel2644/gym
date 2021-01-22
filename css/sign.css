@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif;
+    background-color: hsl(180, 100%, 50%);
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container1{
+    height: 500px;
+    width: 600px;
+    background-color: #000000;
+    border-radius: 20px;
+    margin-top: 150px;
+    opacity: .8;
+    padding: 30px;
+}
+.tw{
+    margin-top: 200px;
+}
+.fb{
+    margin-top: 200px;
+
+}
+.ig{
+    margin-top: 200px;
+
+}
